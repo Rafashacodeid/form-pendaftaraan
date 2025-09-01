@@ -8,6 +8,16 @@ Buka terminal, lalu jalankan perintah berikut:
 
 ```bash
 
+git clone https://github.com/username/form-pendaftaraan.git
+```
+
+```bash
+
+cd form-pendaftarann
+```
+
+```bash
+
 pip install -r requirements.txt
 ```
 Upgrade PySimpleGUI ke versi terbaru:
