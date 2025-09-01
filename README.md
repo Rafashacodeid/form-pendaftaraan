@@ -8,7 +8,7 @@ Buka terminal, lalu jalankan perintah berikut:
 
 ```bash
 
-git clone https://github.com/username/form-pendaftaraan.git
+git clone https://github.com/rafashacodeid/form-pendaftaraan.git
 ```
 
 ```bash
